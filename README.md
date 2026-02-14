@@ -5,9 +5,10 @@
 
 <table border="0">
   <tr>
-    <td align="center" width="200">
-      <img src="PASTE_SC900_JPG_RAW_URL" width="180" alt="Microsoft SC-900">
-      <br/><b>Microsoft Security (SC-900)</b>
+    <td align="center" width="150">
+      <img src="images/Security+-png.png" width="180" alt="CompTIA Security+">
+      <br/><b>CompTIA Security+</b>
+      <br/><small>(<a href="images/CompTIA Security+ ce certificate (1).pdf">View PDF</a>)</small>
     </td>
     <td align="center" width="200">
       <img src="PASTE_CLOUD_PNG_RAW_URL" width="180" alt="Cloud Fundamentals">
