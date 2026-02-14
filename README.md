@@ -1,6 +1,42 @@
-<h1>Hi, I'm Jahaziel or you can call me J! <br/><a href="https://www.linkedin.com/in/mateojaha">Network and Cybersecurity Analyst</a> </h1>
+<h1>Hi, I'm Jahaziel! <br/><a href="https://www.linkedin.com/in/mateojaha">Network and Cybersecurity Analyst</a> </h1>
 
 <h2> 📄 Certifications: </h2>
+<h2> 📄 My Professional Certifications </h2>
+
+<table border="0">
+  <tr>
+    <td align="center" width="200">
+      <img src="PASTE_SC900_JPG_RAW_URL" width="180" alt="Microsoft SC-900">
+      <br/><b>Microsoft Security (SC-900)</b>
+    </td>
+    <td align="center" width="200">
+      <img src="PASTE_CLOUD_PNG_RAW_URL" width="180" alt="Cloud Fundamentals">
+      <br/><b>Cloud Fundamentals</b>
+    </td>
+     <td align="center" width="200">
+      <img src="https://img.icons8.com/color/144/comptia.png" width="100" alt="CompTIA">
+      <br/><b>CompTIA Security+</b>
+      <br/><small>(<a href="PASTE_SECURITY_PDF_RAW_URL">View PDF</a>)</small>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/144/comptia.png" width="100" alt="CompTIA">
+      <br/><b>CompTIA Network+</b>
+      <br/><small>(<a href="PASTE_NETWORK_PDF_RAW_URL">View PDF</a>)</small>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/144/certificate.png" width="100" alt="ISC2">
+      <br/><b>ISC2 Certified in Cybersecurity</b>
+      <br/><small>(<a href="PASTE_ISC2_PDF_RAW_URL">View PDF</a>)</small>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/144/microsoft-excel-2019.png" width="100" alt="Excel">
+      <br/><b>Advanced Excel</b>
+      <br/><small>(<a href="PASTE_EXCEL_PDF_RAW_URL">View PDF</a>)</small>
+    </td>
+  </tr>
+</table>
 - <b>CompTIA Security+</b><br/>
 - <b>CompTIA Network+ </b><br/>
 - <b>Certified in Cybersecurity (ISC)²</b><br/>
