@@ -1,8 +1,6 @@
 <h1>Hi, I'm Jahaziel! <br/><a href="https://www.linkedin.com/in/mateojaha">Network and Cybersecurity Analyst</a> </h1>
 
-<h2> 📄 Certifications: </h2>
-<h2> 📄 My Professional Certifications </h2>
-
+<h2> 📄 My professional Certifications: </h2>
 <table border="0">
   <tr>
     <td align="center" width="150">
@@ -10,31 +8,32 @@
       <br/><b>CompTIA Security+</b>
       <br/><small>(<a href="images/CompTIA Security+ ce certificate (1).pdf">View PDF</a>)</small>
     </td>
-    <td align="center" width="200">
-      <img src="PASTE_CLOUD_PNG_RAW_URL" width="180" alt="Cloud Fundamentals">
-      <br/><b>Cloud Fundamentals</b>
+    <td align="center" width="150">
+      <img src="images/Network+.png" width="180" alt="Network+">
+      <br/><b>CompTIA Netwrok+</b> 
+      <br/><small>(<a href="images/CompTIA Network+ ce certificate (1).pdf">View PDF</a>)</small>
     </td>
-     <td align="center" width="200">
-      <img src="https://img.icons8.com/color/144/comptia.png" width="100" alt="CompTIA">
-      <br/><b>CompTIA Security+</b>
-      <br/><small>(<a href="PASTE_SECURITY_PDF_RAW_URL">View PDF</a>)</small>
+     <td align="center" width="150">
+      <img src="images/certified-in-cybersecurity-cc (1).png" width="100" alt="ISC2">
+      <br/><b>Certified in Cybersecurity ISC2</b>
+      <br/><small>(<a href="images/ISC2 Certified in Cybersecurity.pdf">View PDF</a>)</small>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/color/144/comptia.png" width="100" alt="CompTIA">
-      <br/><b>CompTIA Network+</b>
-      <br/><small>(<a href="PASTE_NETWORK_PDF_RAW_URL">View PDF</a>)</small>
+      <img src="images/Azure-Fundmentals.png" width="100" alt="Azure">
+      <br/><b>Azure Fundamentals</b>
+      <br/><small>(<a href="images/Cloud fundamentals cert.png">View PDF</a>)</small>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/144/certificate.png" width="100" alt="ISC2">
-      <br/><b>ISC2 Certified in Cybersecurity</b>
-      <br/><small>(<a href="PASTE_ISC2_PDF_RAW_URL">View PDF</a>)</small>
+      <img src="images/Azure-Fundmentals.png" width="100" alt="Azure">
+      <br/><b>Azure SC900</b>
+      <br/><small>(<a href="images/Sc900english_page-0001.jpg">View PDF</a>)</small>
     </td>
     <td align="center">
       <img src="https://img.icons8.com/color/144/microsoft-excel-2019.png" width="100" alt="Excel">
       <br/><b>Advanced Excel</b>
-      <br/><small>(<a href="PASTE_EXCEL_PDF_RAW_URL">View PDF</a>)</small>
+      <br/><small>(<a href="images/Advanced Excel cert.pdf">View PDF</a>)</small>
     </td>
   </tr>
 </table>
